@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+creates a repository using current working directory we can create a git repository using init
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+It is an area where we can chosse to keep only those files which we want to keep in our present commit and keep
+ logically different commits separate by commiting only files in that area.
