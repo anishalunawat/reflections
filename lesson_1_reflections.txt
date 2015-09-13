@@ -1,0 +1,25 @@
+By viewing the difference you know what is the difference between correctly working file
+and other file and hence you have a summary of possible mistaken areas, this quickens
+your search and rectification process.
+
+how optimise code ?
+you can cross check your previous logic
+undo the unwanted changes
+easy glance of formulation of your code
+
+What do you think are the pros and cons of manually choosing when to create a commit,
+like you do in Git, vs having versions automatically saved, like Google Docs does?
+pros: 
+gain flexibility
+only significant commit exists
+no code that is not successfully running
+cons:
+may forget to commit
+
+Why do you think some version control systems, like Git, allow saving multiple files in
+one commit, while others, like Google Docs, treat each file separately?
+To store dependencies that change due to changed file after previous commit.
+
+How can you use the commands git log and git diff to view the history of files?
+Git log will show the purpose of commit and will help to recognise the change and id of
+ the consecutive commit to see the modification using diff command between the two ids
