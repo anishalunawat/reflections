@@ -23,3 +23,6 @@ To store dependencies that change due to changed file after previous commit.
 How can you use the commands git log and git diff to view the history of files?
 Git log will show the purpose of commit and will help to recognise the change and id of
  the consecutive commit to see the modification using diff command between the two ids
+ 
+How might using version control make you more confident to make changes that could break something?
+because u can get back easily to the correctly working previous version with git checkout yaeee 
